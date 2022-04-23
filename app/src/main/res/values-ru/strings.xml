@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">НМедиа</string>
+    <string name="nmedia">НМедиа!</string>
+    <string name="slogan">Нетология. Меняем карьеру через образование</string>
+    <string name="avatar">аватар</string>
+    <string name="options">опции</string>
+    <string name="postDate" translatable="false">21 мая 2020</string>
+    <string name="views">просмотры</string>
+    <string name="fav">избранное</string>
+    <string name="messages">сообщения</string>
+    <string name="repost">репост</string>
+    <string name="banner">баннер</string>
+</resources>
